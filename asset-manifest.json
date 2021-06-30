@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-input-tests/static/css/main.b1eb87ec.chunk.css",
+    "main.js": "/react-input-tests/static/js/main.2ca401bc.chunk.js",
+    "main.js.map": "/react-input-tests/static/js/main.2ca401bc.chunk.js.map",
+    "runtime-main.js": "/react-input-tests/static/js/runtime-main.03a9b8eb.js",
+    "runtime-main.js.map": "/react-input-tests/static/js/runtime-main.03a9b8eb.js.map",
+    "static/js/2.939ab7ff.chunk.js": "/react-input-tests/static/js/2.939ab7ff.chunk.js",
+    "static/js/2.939ab7ff.chunk.js.map": "/react-input-tests/static/js/2.939ab7ff.chunk.js.map",
+    "index.html": "/react-input-tests/index.html",
+    "static/css/main.b1eb87ec.chunk.css.map": "/react-input-tests/static/css/main.b1eb87ec.chunk.css.map",
+    "static/js/2.939ab7ff.chunk.js.LICENSE.txt": "/react-input-tests/static/js/2.939ab7ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03a9b8eb.js",
+    "static/js/2.939ab7ff.chunk.js",
+    "static/css/main.b1eb87ec.chunk.css",
+    "static/js/main.2ca401bc.chunk.js"
+  ]
+}
